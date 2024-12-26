@@ -34,3 +34,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 
 ## ✨ **Fun Fact**
 I enjoy learning new tech trends, exploring unique solutions, and collaborating with people on challenging problems. Let's connect and create something amazing together! 😄
+## 📊 **Profile Views**
+![Profile views](https://komarev.com/ghpvc/?username=tanikella-kapil&color=brightgreen)
+
+---
