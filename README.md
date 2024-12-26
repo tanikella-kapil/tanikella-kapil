@@ -3,6 +3,9 @@
 Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **problem-solving**, and building solutions that make an impact. Here's a little bit about me:
 
 ---
+## 📊 **Profile Views**
+![Profile views](https://komarev.com/ghpvc/?username=tanikella-kapil&color=brightgreen)
+
 
 ## 💼 **What I Do**
 - **Embedded Systems Development**: Designed innovative projects like a **remote control car** and **IoT-based systems**.
@@ -34,7 +37,5 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 
 ## ✨ **Fun Fact**
 I enjoy learning new tech trends, exploring unique solutions, and collaborating with people on challenging problems. Let's connect and create something amazing together! 😄
-## 📊 **Profile Views**
-![Profile views](https://komarev.com/ghpvc/?username=tanikella-kapil&color=brightgreen)
 
 ---
