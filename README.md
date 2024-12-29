@@ -3,9 +3,11 @@
 Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **problem-solving**, and building solutions that make an impact. Here's a little bit about me:
 
 ---
+
 ## 📊 **Profile Views**
 ![Profile views](https://komarev.com/ghpvc/?username=tanikella-kapil&color=brightgreen)
 
+---
 
 ## 💼 **What I Do**
 - **Embedded Systems Development**: Designed innovative projects like a **remote control car** and **IoT-based systems**.
@@ -16,8 +18,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 
 ## 🛠️ **Tech Stack**
 - **Programming**: Python, Java, MATLAB
-- **Tools**: Maven, PythonAnywhere,Jira,Git
-- **Hardware skills**: Raspberry pi,Arduino uno,VHDL,Verilog
+- **Tools**: Maven, PythonAnywhere, Jira, Git
+- **Hardware Skills**: Raspberry Pi, Arduino Uno, VHDL, Verilog
 
 ---
 
@@ -35,7 +37,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 - **VHDL** ![VHDL](https://img.shields.io/badge/VHDL-5D6A65?style=flat&logo=verilog&logoColor=white)
 - **Verilog** ![Verilog](https://img.shields.io/badge/Verilog-5D6A65?style=flat&logo=verilog&logoColor=white)
 
+---
+
 ## ✨ **Fun Fact**
 I enjoy learning new tech trends, exploring unique solutions, and collaborating with people on challenging problems. Let's connect and create something amazing together! 😄
-
----
