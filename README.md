@@ -3,11 +3,9 @@
 Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **problem-solving**, and building solutions that make an impact. Here's a little bit about me:
 
 ---
-
 ## 📊 **Profile Views**
 ![Profile views](https://komarev.com/ghpvc/?username=tanikella-kapil&color=brightgreen)
 
----
 
 ## 💼 **What I Do**
 - **Embedded Systems Development**: Designed innovative projects like a **remote control car** and **IoT-based systems**.
@@ -18,8 +16,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 
 ## 🛠️ **Tech Stack**
 - **Programming**: Python, Java, MATLAB
-- **Tools**: Maven, PythonAnywhere, Jira, Git
-- **Hardware Skills**: Raspberry Pi, Arduino Uno, VHDL, Verilog
+- **Tools**: Maven, PythonAnywhere,Jira,Git
+- **Hardware skills**: Raspberry pi,Arduino uno,VHDL,Verilog
 
 ---
 
@@ -28,16 +26,24 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 
 ---
 
-## 🧰 **Skills**
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- **MATLAB** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-- **Raspberry Pi** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-- **Arduino Uno** ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-- **VHDL** ![VHDL](https://img.shields.io/badge/VHDL-5D6A65?style=flat&logo=verilog&logoColor=white)
-- **Verilog** ![Verilog](https://img.shields.io/badge/Verilog-5D6A65?style=flat&logo=verilog&logoColor=white)
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+</p>
 
 ---
 
 ## ✨ **Fun Fact**
 I enjoy learning new tech trends, exploring unique solutions, and collaborating with people on challenging problems. Let's connect and create something amazing together! 😄
+
+---
