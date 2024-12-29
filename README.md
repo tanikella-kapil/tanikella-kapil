@@ -20,7 +20,6 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 - **Hardware skills**: Raspberry pi,Arduino uno,VHDL,Verilog
 
 ---
-
 ## 🌐 **Find Me**
 - 📱 [LinkedIn](https://www.linkedin.com/in/tanikella-kapil-a3b31024b/)
 
@@ -29,37 +28,35 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-matlab-a-multi-paradigm-numerical-computing-environment-and-proprietary-programming-language-logo-shadow-tal-revivo.png" alt="MATLAB" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino Uno" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-code-coding-and-development-flat-flat-juicy-fish.png" alt="VHDL" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-code-ii-coding-and-development-flat-flat-juicy-fish.png" alt="Verilog" />
   </a>
 </p>
+
 ---
 
 ## ✨ **Fun Fact**
