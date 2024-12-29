@@ -29,18 +29,37 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" />
-  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  </a>
 </p>
-
 ---
 
 ## ✨ **Fun Fact**
