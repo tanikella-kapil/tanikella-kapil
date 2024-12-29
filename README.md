@@ -35,7 +35,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-matlab-a-multi-paradigm-numerical-computing-environment-and-proprietary-programming-language-logo-shadow-tal-revivo.png" alt="MATLAB" />
+    <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="MATLAB" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" />
