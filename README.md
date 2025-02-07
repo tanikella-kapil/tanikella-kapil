@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology**, **proble
 
 
 ## 💼 **What I Do**
-- **Embedded Systems Development**: Designed innovative projects like a **remote control car** and **IoT-based systems**.
+- **Embedded Systems Development**: Designed innovative projects like a **Theft detection** and **IoT-based systems**.
 - **Software Development**: Proficient in creating **Telegram bots**, web applications, and algorithms for real-world use cases.
 - **Research Enthusiast**: Contributed to an **IEEE paper** involving **collision warnings** and **data rate optimization** for V2V communication.
 
